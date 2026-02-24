@@ -14,7 +14,7 @@ Cada arquivo `.py` neste repositório representa um desafio resolvido. A numera�
 ### Tecnologias Utilizadas
 
 - **Linguagem:** Python 3
-- **Ambiente de Desenvolvimento:** Pycharm (ou o editor que você preferir), Vscode
+- **Ambiente de Desenvolvimento:** Pycharm, Vscode
 - **Controle de Versão:** Git e GitHub para monitorar o histórico e as alterações.
 
 ---
